@@ -67,6 +67,7 @@ The primary goal is to build a realistic corporate infrastructure that can later
 
 # Active Directory Structure
 
+```text
 lab.local
 │
 ├── IT
@@ -90,7 +91,7 @@ lab.local
 ├── Servers
 │
 └── Workstations
-
+```
 ---
 
 # Project Scope
