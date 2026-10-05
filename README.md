@@ -172,7 +172,7 @@ This infrastructure provides the required foundation for future log analysis and
 # Lessons Learned
 
 During this project I gained practical experience with:
-[7/30/2026 5:13 PM] Mahdi: - Active Directory deployment
+- Active Directory deployment
 - Domain Controller configuration
 - Enterprise OU design
 - User lifecycle management
